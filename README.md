@@ -40,9 +40,9 @@ DASHBOARD OVERVIEW -> The dashboard consists of several key sections:
 
 * Customer Analysis: Insights into customer demographics, purchase frequency, and customer lifetime value (CLV).
   
-*Product Performance: Detailed analysis of product sales, including top-selling items, product categories, and inventory levels.
+* Product Performance: Detailed analysis of product sales, including top-selling items, product categories, and inventory levels.
 
-*Geographic Analysis: Sales performance by region, with maps and regional breakdowns.
+* Geographic Analysis: Sales performance by region, with maps and regional breakdowns.
 
-*Profit & Loss Analysis: Analysis of profit and loss trends over different products, including region and market.
+* Profit & Loss Analysis: Analysis of profit and loss trends over different products, including region and market.
 
