@@ -1,4 +1,4 @@
-# SkipLine-Super-Store
+# SKIPLIINE SUPER STORE
 
 This repository contains a Power BI dashboard project focused on analyzing eCommerce store data. The dashboard provides insights into key metrics such as sales performance, customer behavior, product trends, and more.
 
