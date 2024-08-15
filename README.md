@@ -3,10 +3,11 @@
 This repository contains a Power BI dashboard project focused on analyzing eCommerce store data. The dashboard provides insights into key metrics such as sales performance, customer behavior, product trends, and more.
 
 
-INTRODUCTION -> The SkipLine Super Store Dashboard is a comprehensive Power BI project designed to analyze and visualize data from an online store. The dashboard enables stakeholders to monitor sales performance, understand customer demographics, and track product trends in real-time. This project is ideal for business analysts, data analysts, and eCommerce managers who want to gain actionable insights from their data.
+# INTRODUCTION 
+The SkipLine Super Store Dashboard is a comprehensive Power BI project designed to analyze and visualize data from an online store. The dashboard enables stakeholders to monitor sales performance, understand customer demographics, and track product trends in real-time. This project is ideal for business analysts, data analysts, and eCommerce managers who want to gain actionable insights from their data.
 
 
-FEATURES ->
+# FEATURES
 
 * Sales & Profit Analysis: Track total sales and profit, average order value, and sales by region, category, and product.
   
@@ -17,10 +18,11 @@ FEATURES ->
 * Interactive Visualizations: Utilize Power BI’s interactive features to drill down into specific metrics, filter data, and explore different dimensions of the business.
 
 
-DATASET -> The dataset used in this project contains detailed information on transactions, customers, and products. The data is sourced and is typically stored in a CSV or Excel file.
+# DATASET
+The dataset used in this project contains detailed information on transactions, customers, and products. The data is sourced and is typically stored in a CSV or Excel file.
 
 
-USAGE -> 
+# USAGE
 
 * Open the Skipline-Project.pbix file in Power BI Desktop.
   
@@ -34,7 +36,9 @@ USAGE ->
 
 
 
-DASHBOARD OVERVIEW -> The dashboard consists of several key sections:
+# DASHBOARD OVERVIEW
+
+The dashboard consists of several key sections:
 
 * Sales Overview: A high-level view of total sales, average order value, and sales trends over time.
 
